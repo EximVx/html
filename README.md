@@ -4,18 +4,6 @@
 <html>
 
     <head>
-
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZTM4JB0LRR"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-ZTM4JB0LRR');
-</script>
-
-
         <meta charset="utf-8">
         <meta name="description" content="Amazing blogsite by chathruanga">
         <meta name="keywords" conntent="web design web developmentblogging">
